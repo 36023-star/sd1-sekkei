@@ -45,4 +45,4 @@ flowchart LR
 sequenceDiagram
   学生 ->> 画面: 成績ボタンを押す
   画面 ->> DB: 履修データを問い合わせ
-  
+  aaa
